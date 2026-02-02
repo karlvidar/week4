@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test";
 
-it("always passes", () => {
+test("always passes", () => {
   expect(true).toBe(true);
 });
