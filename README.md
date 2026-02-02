@@ -1,3 +1,5 @@
+![CI](https://github.com/karlvidar/week4/actions/workflows/ci.yml/badge.svg)
+
 # week4
 
 To install dependencies:
