@@ -3,6 +3,11 @@
   "module": "index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "lint": "echo 'Add your linter here (e.g., eslint .)' ",
+    "build": "echo 'Add your build command here'"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
